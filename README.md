@@ -13,6 +13,7 @@ I'm Morgan Rose Sterling\*. Before we dive into this, there are a few things I w
   - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/github.ico"> [`m-sterling`](https://github.com/m-sterling) (but you knew that already!)
   - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/gmail.ico"> [`morgan.rose.sterling@gmail.com`](mailto:morgan.rose.sterling@gmail.com)
   - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/instagram.ico"> [`@morganrosesterling`](https://instagram.com/morganrosesterling)
+  - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/keybase.ico"> [`@msterling`](https://keybase.io/msterling)
   - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/twitter.ico"> [`@morganrsterling`](https://twitter.com/morganrsterling)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sterling&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
