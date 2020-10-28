@@ -8,13 +8,13 @@ I'm Morgan Rose Sterling\*. Before we dive into this, there are a few things I w
   - "I gave **her** a gift." *or* "I gave **them** a gift."
   - "The phone is **hers**." *or* "The phone is **theirs**."
 - You can reach me via the following:
-  - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/discord.ico"> [`@モーガン#0708`](https://discord.com/users/135747025000988672) - you can usually find me active on my favourite programming server, [The Coding Den](https://discord.gg/code).
-  - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/facebook.ico"> You're cute.
-  - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/github.ico"> [`m-sterling`](https://github.com/m-sterling) (but you knew that already!)
-  - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/gmail.ico"> [`morgan.rose.sterling@gmail.com`](mailto:morgan.rose.sterling@gmail.com)
-  - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/instagram.ico"> [`@morganrosesterling`](https://instagram.com/morganrosesterling)
-  - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/keybase.ico"> [`@msterling`](https://keybase.io/msterling)
-  - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/twitter.ico"> [`@morganrsterling`](https://twitter.com/morganrsterling)
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/discord.ico"></a> [`@モーガン#0708`](https://discord.com/users/135747025000988672) - you can usually find me active on my favourite programming server, [The Coding Den](https://discord.gg/code).
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/facebook.ico"></a> You're cute.
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/github.ico"></a> [`m-sterling`](https://github.com/m-sterling) (but you knew that already!)
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/gmail.ico"></a> [`morgan.rose.sterling@gmail.com`](mailto:morgan.rose.sterling@gmail.com)
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/instagram.ico"></a> [`@morganrosesterling`](https://instagram.com/morganrosesterling)
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/keybase.ico"></a> [`@msterling`](https://keybase.io/msterling)
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/twitter.ico"></a> [`@morganrsterling`](https://twitter.com/morganrsterling)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sterling&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
