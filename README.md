@@ -8,7 +8,7 @@ I'm Morgan Rose Sterling\*. Before we dive into this, there are a few things I w
   - "I gave **her** a gift." *or* "I gave **them** a gift."
   - "The phone is **hers**." *or* "The phone is **theirs**."
 - You can reach me via the following:
-  - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/discord.ico"> `@モーガン#0708` - you can usually find me active on my favourite programming server, [The Coding Den](https://discord.gg/code).
+  - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/discord.ico"> [`@モーガン#0708`](https://discord.com/users/135747025000988672) - you can usually find me active on my favourite programming server, [The Coding Den](https://discord.gg/code).
   - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/facebook.ico"> You're cute.
   - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/github.ico"> [`m-sterling`](https://github.com/m-sterling) (but you knew that already!)
   - <img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/gmail.ico"> [`morgan.rose.sterling@gmail.com`](mailto:morgan.rose.sterling@gmail.com)
