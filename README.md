@@ -16,7 +16,7 @@ I'm Morgan Rose Sterling\*. Before we dive into this, there are a few things I w
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/keybase.ico"></a> [`@msterling`](https://keybase.io/msterling)
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/twitter.ico"></a> [`@morganrsterling`](https://twitter.com/morganrsterling)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sterling&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sterling&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 \*Sterling is a surname I use online to hide my real-life identity while still being identifiable throughout the Internet. This is *not* my legal surname nor do I intend for it to ever be.
 
