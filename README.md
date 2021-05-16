@@ -8,7 +8,7 @@ I'm Morgan Rose Sterling\*. Before you dive into my profile, here are a few thin
   - "I gave **her** a gift." *or* "I gave **them** a gift."
   - "The phone is **hers**." *or* "The phone is **theirs**."
 - 💻 You can reach me via the following:
-  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/discord.ico"></a> [`@Morgan Rose#0108`](https://discord.com/users/135747025000988672) - you can usually find me moderating on my favourite programming server, [The Coding Den](https://discord.gg/code)!
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/discord.ico"></a> [`@morgan_rose_xo#0108`](https://discord.com/users/135747025000988672) - you can usually find me moderating on my favourite programming server, [The Coding Den](https://discord.gg/code)!
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/facebook.ico"></a> Maybe in the future? ;p 
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/github.ico"></a> [`m-sterling`](https://github.com/m-sterling) (but you knew that already!)
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/gmail.ico"></a> [`morgan.rose.sterling@gmail.com`](mailto:morgan.rose.sterling@gmail.com)
