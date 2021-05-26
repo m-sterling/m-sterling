@@ -3,7 +3,7 @@
 I'm Morgan Rose Sterling\*. Before you dive into my profile, here are a few things I want you to know about me!
 - 🙋🏻‍♀️I am a 21-year-old [transgender woman](https://gender.wikia.org/wiki/Trans_Woman)!
 - 📖 I am a student at [Farmingdale State College](https://farmingdale.edu/) in Farmingdale, NY. I am currently following the [Computer Security Technology](https://www.farmingdale.edu/curriculum/bs-cst.shtml) curriculum for my bachelor's and am on track to graduate in either fall 2022 or spring 2023.
-- 💬 [Pronouns](https://studentaffairs.duke.edu/csgd/training-resources/gender-pronouns): **she/her/hers** *or* **they/them/theirs**
+- 💬 [Pronouns](https://studentaffairs.duke.edu/csgd/training-resources/gender-pronouns): **[she/her/hers](http://pronoun.is/she)** *or* **[they/them/theirs](http://pronoun.is/she)**
   - "**She** is a cool person." *or* "**They** are a cool person."
   - "I gave **her** a gift." *or* "I gave **them** a gift."
   - "The phone is **hers**." *or* "The phone is **theirs**."
@@ -12,9 +12,7 @@ I'm Morgan Rose Sterling\*. Before you dive into my profile, here are a few thin
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/facebook.ico"></a> Maybe in the future? ;p 
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/github.ico"></a> [`m-sterling`](https://github.com/m-sterling) (but you knew that already!)
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/gmail.ico"></a> [`morgan.rose.sterling@gmail.com`](mailto:morgan.rose.sterling@gmail.com)
-  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/instagram.ico"></a> [`@morganrosesterling`](https://instagram.com/morganrosesterling)
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/keybase.ico"></a> [`@msterling`](https://keybase.io/msterling)
-  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/twitter.ico"></a> [`@morganrsterling`](https://twitter.com/morganrsterling)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sterling&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
