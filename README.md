@@ -8,10 +8,10 @@ I'm Morgan Rose Sterling<sup><sup>1</sup></sup> – here are a few things about 
   - "I gave **faer** a gift." *or* "I gave **her** a gift." *or* "I gave **them** a gift."
   - "The phone is **faers**." *or* "The phone is **hers**." *or* "The phone is **theirs**."
 - 📫 You can contact me here:
-  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/discord.ico"></a> [`@morgan_rose_xo#0108`](https://discord.com/users/135747025000988672) – you can usually find me moderating the programming server [The Coding Den](https://discord.gg/code)!
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/discord.ico"></a> [`@morgan_rose_xo`](https://discord.com/users/135747025000988672) – you can usually find me moderating the programming server [The Coding Den](https://discord.gg/code)!
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/facebook.ico"></a> TBD
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/github.ico"></a> [`@m-sterling`](https://github.com/m-sterling) (but you knew that already!)
-  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/gmail.ico"></a> [`morgan.rose.sterling@gmail.com`](mailto:morgan.rose.sterling@gmail.com)
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/gmail.ico"></a> [`morgan.rose.sterling@gmail.com`](mailto:morgan.rose.sterling@gmail.com) or [`morgan@msterling.dev`](mailto:morgan@msterling.dev)
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/keybase.ico"></a> [`@msterling`](https://keybase.io/msterling)
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/favicon.ico"></a> TBD
 
