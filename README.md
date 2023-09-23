@@ -3,7 +3,7 @@
 I'm Morgan Rose Sterling<sup><sup>1</sup></sup> – here are a few things about me!
 - 🙋🏻‍♀️I am a 24-year-old [transgender woman](https://en.wikipedia.org/wiki/Trans_woman)!
 - 📖 I am a student at my local community college! I am currently in the liberal arts general studies program for my associates degree.
-- 💬 [My pronouns](https://studentaffairs.duke.edu/csgd/training-resources/gender-pronouns) are, in order of preference, **[fae/faer/faers](http://pronoun.is/fae)**, **[she/her/hers](http://pronoun.is/she)**, and **[they/them/theirs](http://pronoun.is/she)**.
+- 💬 [My pronouns](https://studentaffairs.duke.edu/csgd/training-resources/gender-pronouns) are, in order of preference, **[fae/faer/faers](http://my.pronouns.page/are/fae)**, **[she/her/hers](http://my.pronouns.page/are/she)**, and **[they/them/theirs](http://my.pronouns.page/are/they)**.
   - "**Fae**<sup><sup>2</sup></sup> are a cool person." *or* "**She** is a cool person." *or* "**They** are a cool person."
   - "I gave **faer** a gift." *or* "I gave **her** a gift." *or* "I gave **them** a gift."
   - "The phone is **faers**." *or* "The phone is **hers**." *or* "The phone is **theirs**."
