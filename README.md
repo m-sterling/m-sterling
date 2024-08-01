@@ -15,7 +15,7 @@ I'm Morgan Rose Sterling<sup><sup>1</sup></sup> – here are a few things about 
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/gmail.ico"></a> [`morgan.rose.sterling@gmail.com`](mailto:morgan.rose.sterling@gmail.com) or [`morgan@msterling.dev`](mailto:morgan@msterling.dev)
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/keybase.ico"></a> [`@msterling`](https://keybase.io/msterling)
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/linkedin.ico"></a> TBD
-  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/mastodon.ico"></a> [`@morgan@transfem.social`](https://transfem.social/@morgan)
+  - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/fediverse.ico"></a> [`@morgan@transfem.social`](https://transfem.social/@morgan)
 
 <sup><sup>1</sup></sup> Sterling is a surname I use online to hide my real-life identity while still being identifiable throughout the Internet. This is *not* my legal surname, nor do I intend for it to ever be.
 
