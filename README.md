@@ -1,13 +1,13 @@
 ### Hi there!
 
 I'm Morgan Rose Sterling<sup><sup>1</sup></sup> – here are a few things about me!
-- 🙋🏻‍♀️I am a 26-year-old [transgender woman](https://en.wikipedia.org/wiki/Trans_woman)!
+- 🙋🏻‍♀️I am a 27-year-old [transgender woman](https://en.wikipedia.org/wiki/Trans_woman)!
 - 📖 I am a student at the [University at Albany](https://albany.edu)! I am currently in their [informatics program](https://albany.edu/cehc/programs/bs-informatics) for my bachelors degree.
   - I graduated from my local community college with an associates degree in their liberal arts general studies program.
-- 💬 [My pronouns](https://studentaffairs.duke.edu/csgd/training-resources/gender-pronouns) are, in order of preference, **[they/them/theirs](http://my.pronouns.page/are/they)**, **[fae/faer/faers](http://my.pronouns.page/are/fae)**, and **[she/her/hers](http://my.pronouns.page/are/she)**.
-  - "**They** are a cool person." *or* "**Fae** are<sup><sup>2</sup></sup> a cool person." *or* "**She** is a cool person."
-  - "I gave **them** a gift." *or* "I gave **faer** a gift." *or* "I gave **her** a gift."
-  - "The phone is **theirs**." *or* "The phone is **faers**." *or* "The phone is **hers**."
+- 💬 [My pronouns](https://studentaffairs.duke.edu/csgd/training-resources/gender-pronouns) are, in order of preference, **[they/them](http://my.pronouns.page/are/they)**, **[fae/faer](http://my.pronouns.page/are/fae)**, **[she/her](http://my.pronouns.page/are/she)**, and **[it/its](http://my.pronouns.page/are/it)**.
+  - "**They** are a cool person." *or* "**Fae** are<sup><sup>2</sup></sup> a cool person." *or* "**She** is a cool person." *or* "**It** is a cool person."
+  - "I gave **them** a gift." *or* "I gave **faer** a gift." *or* "I gave **her** a gift." *or* "I gave **it** a gift."
+  - "The phone is **theirs**." *or* "The phone is **faers**." *or* "The phone is **hers**." *or* "The phone is **its**."
 - 📫 You can contact me here:
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/discord.ico"></a> [`@morgan_rose_xo`](https://discord.com/users/135747025000988672) – you can usually find me moderating the programming server [The Coding Den](https://discord.gg/code)!
   - <a href="#"><img width="16px" height="16px" src="https://github.com/m-sterling/m-sterling/blob/master/assets/facebook.ico"></a> TBD
